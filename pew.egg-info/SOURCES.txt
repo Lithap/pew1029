@@ -1,0 +1,8 @@
+README.md
+pew.py
+setup.py
+pew.egg-info/PKG-INFO
+pew.egg-info/SOURCES.txt
+pew.egg-info/dependency_links.txt
+pew.egg-info/entry_points.txt
+pew.egg-info/top_level.txt
